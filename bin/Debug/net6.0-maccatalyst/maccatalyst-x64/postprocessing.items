@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="RigelVoyager.app/Contents/MacOS/RigelVoyager">
+      <BCSymbolMapName>RigelVoyager.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>RigelVoyager.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/linconveniciosgallodossantos/Projects/RigelVoyager/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>RigelVoyager.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/linconveniciosgallodossantos/Projects/RigelVoyager</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
